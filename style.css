@@ -17,6 +17,11 @@
 	align-items: center;
 }
 
+h2 {
+    padding: 20px;
+    margin: 30px; 
+}
+
 /* Title of the game */
 .title{
 	position: absolute;
